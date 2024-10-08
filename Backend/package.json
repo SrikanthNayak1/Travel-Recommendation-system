@@ -1,0 +1,17 @@
+{
+    "name": "travel-recommendation-system",
+    "version": "1.0.0",
+    "description": "Travel recommendation and itinerary generation system",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "body-parser": "^1.19.0",
+      "dotenv": "^10.0.0",
+      "sequelize": "^6.3.5",
+      "mysql2": "^2.1.0"
+    }
+  }
+  
