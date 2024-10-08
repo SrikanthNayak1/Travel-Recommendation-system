@@ -1,6 +1,6 @@
- travel-recommendation-system/
+ travel-recommendation-system
 │
-├── api/
+├── api
 │   ├── controllers/
 │   │   └── itineraryController.js
 │   ├── models/
